@@ -1,0 +1,8 @@
+C:\Users\ayoub\source\repos\CardGameApp\CardGameUI\bin\Debug\CardGameUI.exe.config
+C:\Users\ayoub\source\repos\CardGameApp\CardGameUI\bin\Debug\CardGameUI.exe
+C:\Users\ayoub\source\repos\CardGameApp\CardGameUI\bin\Debug\CardGameUI.pdb
+C:\Users\ayoub\source\repos\CardGameApp\CardGameUI\obj\Debug\CardGameUI.csproj.AssemblyReference.cache
+C:\Users\ayoub\source\repos\CardGameApp\CardGameUI\obj\Debug\CardGameUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayoub\source\repos\CardGameApp\CardGameUI\obj\Debug\CardGameUI.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\CardGameApp\CardGameUI\obj\Debug\CardGameUI.exe
+C:\Users\ayoub\source\repos\CardGameApp\CardGameUI\obj\Debug\CardGameUI.pdb
